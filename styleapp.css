@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('C:/Users/Jayas/Downloads/background.webp');
+    background-image: url('./images/Background1.jpg');
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -135,7 +135,7 @@ ul li::before {
     height: 30px;
     width: 30px;
     border-radius: 50%;
-    background: url('https://img.icons8.com/color/480w/unchecked-checkbox--v1.png');
+    background: url('./images/unchecked.jpg');
     background-size: cover;
     background-position: center;
     margin-right: 10px;
@@ -149,7 +149,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-    background: url('https://w7.pngwing.com/pngs/652/404/png-transparent-blue-check-logo-checkbox-check-mark-cancel-button-miscellaneous-blue-angle-thumbnail.png');
+    background: url('./images/checked1.jpg');
     background-size: cover;
 }
 
